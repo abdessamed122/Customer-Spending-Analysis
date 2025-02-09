@@ -15,7 +15,8 @@ Shows a strong positive correlation between membership duration and yearly spend
 Model Evaluation
 3. Prediction Accuracy
 Actual vs. Predicted Spending
-![Uploading téléchargement (1).png…]()
+![téléchargement (1)](https://github.com/user-attachments/assets/9b354e9f-d54c-47a1-a81f-cd35e317fb84)
+
 
 Model predictions closely follow actual values, indicating good regression performance (points align near the diagonal).
 
